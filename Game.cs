@@ -6,8 +6,7 @@
         {
             Map map = new Map(8, 5);
 
-            int area = map.Width * map.Height;
-            System.Console.WriteLine(area);
+            Point point = new Point(4, 2);
         }
     }
 }
