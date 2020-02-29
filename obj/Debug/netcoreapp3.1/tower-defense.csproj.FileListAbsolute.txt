@@ -1,0 +1,10 @@
+/Users/fox/Projects/_apps/tower-defense/bin/Debug/netcoreapp3.1/tower-defense.deps.json
+/Users/fox/Projects/_apps/tower-defense/bin/Debug/netcoreapp3.1/tower-defense.runtimeconfig.json
+/Users/fox/Projects/_apps/tower-defense/bin/Debug/netcoreapp3.1/tower-defense.runtimeconfig.dev.json
+/Users/fox/Projects/_apps/tower-defense/bin/Debug/netcoreapp3.1/tower-defense.dll
+/Users/fox/Projects/_apps/tower-defense/bin/Debug/netcoreapp3.1/tower-defense.pdb
+/Users/fox/Projects/_apps/tower-defense/obj/Debug/netcoreapp3.1/tower-defense.csprojAssemblyReference.cache
+/Users/fox/Projects/_apps/tower-defense/obj/Debug/netcoreapp3.1/tower-defense.AssemblyInfoInputs.cache
+/Users/fox/Projects/_apps/tower-defense/obj/Debug/netcoreapp3.1/tower-defense.AssemblyInfo.cs
+/Users/fox/Projects/_apps/tower-defense/obj/Debug/netcoreapp3.1/tower-defense.dll
+/Users/fox/Projects/_apps/tower-defense/obj/Debug/netcoreapp3.1/tower-defense.pdb
