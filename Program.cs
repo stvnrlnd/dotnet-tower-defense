@@ -1,12 +1,13 @@
-﻿using System;
-
-namespace TowerDefense
+﻿namespace TowerDefense
 {
     class Game
     {
         static void Main(string[] args)
         {
-            Tower tower = new Tower();
+            Map map = new Map(8, 5);
+
+            int area = map.Width * map.Height;
+            System.Console.WriteLine(area);
         }
     }
 }
